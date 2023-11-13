@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cybersecurity Basics</title>
+</head>
+<body>
+  <h1>Introduction to Cybersecurity</h1>
+  <p>Welcome to our page on cybersecurity basics!</p>
+  <p>Here are some resources:</p>
+  <ul>
+    <li><a href="https://www.cybrary.it/">Cybrary - Online cybersecurity courses</a></li>
+    <li><a href="https://www.sans.org/">SANS Institute - Infosec resources</a></li>
+  </ul>
+  <p>Stay safe and keep learning!</p>
+</body>
+</html>
